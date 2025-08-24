@@ -1,3 +1,14 @@
+---
+title: Bedtime Storyteller AI Agent
+emoji: 🌙
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.0.0
+app_file: main.py
+pinned: false
+---
+
 # Bedtime Storyteller AI Agent
 
 An AI agent built using OpenAI's Agent SDK that creates personalized bedtime stories with a beautiful Gradio web interface.
