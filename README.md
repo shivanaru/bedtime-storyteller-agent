@@ -11,7 +11,7 @@ pinned: false
 
 # Bedtime Storyteller AI Agent
 
-An AI agent built using OpenAI's Agent SDK that creates personalized bedtime stories with a beautiful Gradio web interface.
+An AI agent built using OpenAI's Agent SDK that creates personalized bedtime stories with a beautiful Gradio web interface. See it live in action here - https://huggingface.co/spaces/shivanaru/bedtime-storyteller-agent
 
 ## Setup
 
